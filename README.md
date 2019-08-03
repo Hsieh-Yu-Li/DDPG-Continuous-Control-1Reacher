@@ -30,7 +30,7 @@ Two versions of the environment.
 
 #### Option 1: Solve the First Version
 
-The task is episodic, and in order to solve the environment,  your agent must get an average score of +30 over 100 consecutive episodes.
+The task is episodic, and in order to solve the environment,  the agent must get an average score of +30 over 100 consecutive episodes.
 
 #### Option 2: Solve the Second Version
 
